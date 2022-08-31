@@ -19,3 +19,11 @@
     /uploads</br>
 4. create route, view, controller
 
+
+<script>
+    function copy()
+    {
+
+    }
+</script>
+
